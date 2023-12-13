@@ -1,6 +1,6 @@
 <h1>BOOSTRAP</h1>
 
-Boostrap kullanılarak oluşturulmuştur.
+Boostrap ve HTML kullanılarak oluşturulmuştur.
 
 <h2>EKRAN GÖRÜNTÜSÜ</h2>
 
